@@ -8,7 +8,8 @@ const IndexPage = () => (
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby blog with Markdown pages.</p>
     <p>
-      <Link to="/blog/example/">Go to my first Markdown blog post</Link>
+      <Link to="/blog/1/">Salmón Moldeado</Link>
+      <Link to="/blog/1/">Ensalada de Nopales</Link>
     </p>
   </Layout>
 )
