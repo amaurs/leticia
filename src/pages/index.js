@@ -9,7 +9,30 @@ const IndexPage = () => (
     <p>Welcome to your new Gatsby blog with Markdown pages.</p>
     <p>
       <Link to="/blog/1/">Salmón Moldeado</Link>
+      <br/>
       <Link to="/blog/2/">Ensalada de Nopales</Link>
+      <br/>
+      <Link to="/blog/3/">Pastel de nuez</Link>
+      <br/>
+      <Link to="/blog/4/">Nueces con chocolate</Link>
+      <br/>
+      <Link to="/blog/5/">Almendras de Chocolate</Link>
+      <br/>
+      <Link to="/blog/6/">Pastel Bimbo de nuez</Link>
+      <br/>6
+      <Link to="/blog/7/">Croquetas de atún</Link>
+      <br/>
+      <Link to="/blog/8/">Galletas de coco</Link>
+      <br/>
+      <Link to="/blog/9/">Pasta para empanadas</Link>
+      <br/>
+      <Link to="/blog/10/">Pastel de calabaza tierna</Link>
+      <br/>
+      <Link to="/blog/11/">Pastel Rococó</Link>
+      <br/>
+      <Link to="/blog/12/">Pastel volteado de piña</Link>
+      <br/>
+      <Link to="/blog/13/">Brazo de gitano</Link>
     </p>
   </Layout>
 )
