@@ -8,18 +8,18 @@ const IndexPage = () => (
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby blog with Markdown pages.</p>
     <p>
-      <Link to="/blog/1/">Salmón Moldeado</Link>
+      <Link to="/blog/1/">Salmón moldeado</Link>
       <br/>
-      <Link to="/blog/2/">Ensalada de Nopales</Link>
+      <Link to="/blog/2/">Ensalada de nopales</Link>
       <br/>
       <Link to="/blog/3/">Pastel de nuez</Link>
       <br/>
       <Link to="/blog/4/">Nueces con chocolate</Link>
       <br/>
-      <Link to="/blog/5/">Almendras de Chocolate</Link>
+      <Link to="/blog/5/">Almendras de chocolate</Link>
       <br/>
       <Link to="/blog/6/">Pastel Bimbo de nuez</Link>
-      <br/>6
+      <br/>
       <Link to="/blog/7/">Croquetas de atún</Link>
       <br/>
       <Link to="/blog/8/">Galletas de coco</Link>
